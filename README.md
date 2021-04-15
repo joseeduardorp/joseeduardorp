@@ -1,4 +1,4 @@
-## Oi!
+## Olá!
 
 Prazer, me chamo José Eduardo e tenho 18 anos. Atualmente estou estudando desenvolvimento web, usando tecnologias como o ReactJS, Sass, webpack.
 
