@@ -7,7 +7,7 @@ Prazer, me chamo José Eduardo e tenho 18 anos. Atualmente estou estudando desen
 -  **Aprendendo:** Desenvolvimento Web com React e Sass
 -  **Linguagens:** Java, Javascript
 -  **Hobbies:** ler :closed_book:, escutar música :headphones:, jogar xadrez :chess_pawn:
--  **Fato:** Preciso melhorar minhas soft skills :neutral_face:
+-  **Fato:** Tenho gosto por aprender
 
 ### Outros projetos
 
