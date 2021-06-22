@@ -13,5 +13,7 @@ Prazer, me chamo José Eduardo e tenho 18 anos. Atualmente estou estudando desen
 
 Faço alguns projetos mais simples no meu perfil no [codepen.io](https://codepen.io/joseeduardo-rp).
 
-<img height="170px" align="left" src="https://github-readme-stats.vercel.app/api?username=joseeduardorp&show_icons=true&count_private=true&theme=dracula" />
-<img height="170px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseeduardorp&layout=compact&hide=php&theme=dracula" />
+<div>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=joseeduardorp&show_icons=true&count_private=true&theme=dracula" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseeduardorp&layout=compact&hide=php&theme=dracula" />
+</div>
