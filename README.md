@@ -1,17 +1,11 @@
 ## Olá!
 
-Prazer, me chamo José Eduardo e tenho 18 anos. Atualmente estou estudando desenvolvimento web, usando tecnologias como o ReactJS, Sass, webpack.
-
 ### Sobre mim
 
--  **Aprendendo:** Desenvolvimento Web com React e Sass
--  **Linguagens:** Java, Javascript
+-  **Aprendendo:** Desenvolvimento back-end com AWS
+-  **Linguagens:** HTML5, CSS3, JavaScript, TypeScript, Python
 -  **Hobbies:** ler :closed_book:, escutar música :headphones:, jogar xadrez :chess_pawn:
--  **Fato:** Tenho paixão por aprender
-
-### Outros projetos
-
-Faço alguns projetos mais simples no meu perfil no [codepen.io](https://codepen.io/joseeduardo-rp).
+-  **Fato:** Adoro aprender coisas novas
 
 <div>
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=joseeduardorp&show_icons=true&count_private=true&theme=dracula" />
