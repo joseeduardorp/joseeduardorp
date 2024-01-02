@@ -2,9 +2,10 @@
 
 ### Sobre mim
 
--  **Aprendendo:** Desenvolvimento back-end com AWS
+-  **Estudando:** Desenvolvimento back-end com Node JS
 -  **Linguagens:** HTML5, CSS3, JavaScript, TypeScript, Python
--  **Hobbies:** ler :closed_book:, escutar música :headphones:, jogar xadrez :chess_pawn:
+-  **Hobbies:** ler :closed_book:, escutar música :headphones:, jogos online :video_game:
+-  **Interesses**: Low Level e Assembly
 -  **Fato:** Adoro aprender coisas novas
 
 <div>
